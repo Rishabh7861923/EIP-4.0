@@ -1,4 +1,4 @@
-## Score- 99.08
+## Score- 99.36
 
 ## Definitions
 
@@ -18,4 +18,8 @@
 
 #### 8.Receptive Field: The minimum requirement of pixels by the next layer inoder to completely visualize the input.
 
-## Group- Rishabh Mishra, Rupesh Mahal, Sudarshan Pune, Shivansh Singhal.
+## Group- 
+## -Rishabh Mishra
+## -Rupesh Mahal
+## -Sudarshan Pune
+## -Shivansh Singhal.
