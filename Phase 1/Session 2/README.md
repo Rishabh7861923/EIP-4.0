@@ -92,3 +92,6 @@ Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869.
 2. The bias had to be removed so used "bias=False" in each layer.
 3. Reduced the parameters from 18.6k to 13.6k, by changing the the numbers of channel in 2nd layer to 16.
 4. The difference between validation accuracy and training accuracy was significant so had to reduce the value of dropout from 0.1 to 0.05.
+
+# Group
+Rupesh Mahal, Rishabh Mishra, Shivansh Singhal, Sudarshan Pune.
