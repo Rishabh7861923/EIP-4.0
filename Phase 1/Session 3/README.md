@@ -53,6 +53,7 @@ model.add(Flatten())
 model.add(Activation('softmax'))
 
 _Compiling the model_
+
 model.compile(optimizer=RMSprop(lr=0.001), loss='categorical_crossentropy', metrics=['accuracy'])
 
 ## Log for 50 epochs run
