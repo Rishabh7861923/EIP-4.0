@@ -263,3 +263,6 @@ Model took 1619.28 seconds to train
 Accuracy on test data is: 83.79(greater than 83)
 
 Parameters used: 57,568(less than 100,000)
+
+## Group
+Rupesh Mahal, Rishabh Mishra, Sudarshan Pune, Shivansh Singhal
