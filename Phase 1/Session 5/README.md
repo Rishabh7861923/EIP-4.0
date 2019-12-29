@@ -1,4 +1,4 @@
-# Used Resnet18
+# Used Resnet18 for 100 epochs
 
 ## Result obtained :-
 
